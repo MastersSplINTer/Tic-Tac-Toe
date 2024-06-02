@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class Main {
+    //MastersSplINTer
     private static final char[] PLAYERS = {'X', 'O'};
     private static char[][] board = new char[3][3];
     private static int currentPlayer = 0; // 0 for 'X', 1 for 'O'
